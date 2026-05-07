@@ -25,10 +25,11 @@ This repository contains beginner-friendly Python games created using basic Pyth
 2. Download the files
 3. Open terminal in project folder
 4. Run:
+   
+## Author Ekta Sahtia
 
 ```bash
 python stone_paper_scissors.py
 or
 python tic_tac_toe.py
 
-## Author Ekta
