@@ -32,4 +32,7 @@ https://www.python.org/downloads/
 
 ```bash
 pip install pygame
+python stone_paper_scissors.py
+or
+python tic_tac_toe.py
 
