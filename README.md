@@ -6,6 +6,9 @@ This repository contains beginner-friendly Python games created using basic Pyth
 - Stone Paper Scissors
 - Tic Tac Toe
 - Memory Card Game
+- ZOMBIE SURVIVAL GAME
+- guess the number
+- coin toss betting
 
 ## Technologies Used
 - Python
